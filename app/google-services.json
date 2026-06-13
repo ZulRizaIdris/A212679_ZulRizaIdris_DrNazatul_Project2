@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007177086878",
+    "project_id": "careerpulse-41cc1",
+    "storage_bucket": "careerpulse-41cc1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007177086878:android:8c00287f52943458e0c88f",
+        "android_client_info": {
+          "package_name": "com.example.a212679_zulrizaidris_drnazatul_project2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATgcEvmds7aBWt06MCvCkN-y0_Y19ahSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

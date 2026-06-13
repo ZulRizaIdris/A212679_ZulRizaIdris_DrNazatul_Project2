@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Career Pulse App</string>
+    <string name="application_summary">Application Summary</string>
+    <string name="cancel">Cancel</string>
+    <string name="submit">Submit</string>
+    <string name="select_position">Select a Position</string>
+    <string name="next">next</string>
+    <string name="applicant_name">Applicant Name</string>
+    <string name="applicant_email">Applicant Email</string>
+    <string name="applicant_phone">Applicant Phone</string>
+</resources>
